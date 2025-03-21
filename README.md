@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# GATPDD
-GATPDD is a deep learning-based model integrating enhanced feature learning and multi-head Graph Attention Networks (GAT) to accurately predict drug-parasitic disease associations, aiding therapeutic discovery and repurposing.
-=======
 # GATPDD: A Deep Learning-Based Computational Method to Improve Parasitic Disease Therapy Prediction
 
 ## Introduction
@@ -68,4 +64,3 @@ python split_data.py
 python command_optimal.py
 ```
 
->>>>>>> f67e084 (Initial commit)
